@@ -81,6 +81,11 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {
+            href: 'https://www.linkedin.com/in/kavish-punchoo/',
+            label: 'LinkedIn',
+            position: 'right',
+          },
         ],
       },
       footer: {
